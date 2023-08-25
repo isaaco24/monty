@@ -1,5 +1,4 @@
 #include "monty.h"
-#print_all.c
 
 /**
 * f_pall - Prints the elements of the stack.

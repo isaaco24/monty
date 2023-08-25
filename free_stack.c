@@ -1,5 +1,4 @@
 #include "monty.h"
-#cleanup_stack.c  file
 /**
 * free_stack - Frees a doubly linked list (stack).
 * @head: Pointer to the head of the stack

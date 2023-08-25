@@ -1,5 +1,4 @@
 #include "monty.h"
-#instruction_handler.c
 /**
 * execute - Executes the corresponding opcode.
 * @content: Line content from the Monty file

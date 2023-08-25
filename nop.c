@@ -1,5 +1,5 @@
 #include "monty.h"
-#do_nothing.c file
+
 /**
 * f_nop - Does nothing.
 * @head: Pointer to the head of the stack

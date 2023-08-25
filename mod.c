@@ -1,7 +1,5 @@
 #include "monty.h"
-# calculate_modulo.c
-
-/**
+/**	
 * f_mod - Computes the remainder of the division of the second
 * top element of the stack by the top element of the stack.
 * @head: Pointer to the head of the stack
